@@ -1,0 +1,6 @@
+images
+__pycache__
+*.txt
+!autocraiyonTitle.txt
+!sampleWords.txt
+!requirements.txt
