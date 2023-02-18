@@ -1,10 +1,10 @@
-# autocraiyon
+# Autocraiyon
 
-Autocraiyon is a cli that automates random prompt generation using a word_list and saving results for the image generator at https://www.craiyon.com/ .<br>
+Autocraiyon is a cli that automates random prompt generation using a word_list and saving results for the image generator [craiyon](https://www.craiyon.com/) .<br>
 The program requires python >= 3.10.<br>
 Autocraiyon supports using either Firefox (default) or Chrome, but you need to download the appropriate web driver for your browser and system:<br>
-Firefox: https://github.com/mozilla/geckodriver/releases <br>
-Chrome: https://chromedriver.chromium.org/downloads <br>
+[Firefox](https://github.com/mozilla/geckodriver/releases) <br>
+[Chrome](https://chromedriver.chromium.org/downloads) <br>
 <br>
 The web driver either needs to be in your PATH or in the autocraiyon directory.<br>
 <br>
